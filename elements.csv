@@ -1,0 +1,9 @@
+letter,element,type,description
+B,Big data analytics and AI,Digital function,"Analysis of large and dispersed datasets to trace and share plastic material flows from design and production through to end of service life, supporting faster and more adaptive decision-making"
+I,IoT and mobile applications,Digital function,"Connected objects and sensor technologies such as RFID, with mobile and web applications as the principal user interface, enabling data collection, product exchange and communication between actors in the chain"
+G,GIS and remote sensing,Digital function,"Spatial capture and assessment of waste management operations, including landfill and bin siting, environmental impact assessment, and remote data collection at low cost"
+ST,Sustainable transport and distribution,Strategy,"Eco-packaging design and environmentally preferable material substitution, with optimisation of raw material deployment, production and final product distribution to reduce cost and environmental burden"
+R,Responsible production and consumption,Strategy,"Use, reuse, repair, remanufacture, repurpose, recycle and recovery; and the operational chain of identification, collection, separation, sorting and reprocessing"
+E,Energy recovery,Strategy,Recovery of energy from plastic waste streams that cannot be returned to material circulation
+A,Advise stakeholders,Strategy,"Refrain, reuse, separate and garner: changing stakeholder behaviour through education and engagement across consumers, government and industry"
+M,Monitoring and assessing waste management systems,Strategy,"Longitudinal data capture on waste operations, including ledger-based approaches, to make the provenance of resources and wastes traceable and to inform future product design"
